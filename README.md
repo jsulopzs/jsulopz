@@ -7,9 +7,9 @@ I share everything I know about Python + Data Science through my `tutorials`:
 1. [YouTube](https://youtube.com/c/pythonresolver/)
 2. [Blog](https://blog.pythonassembly.com/)
 
-How did I end up teaching Online Lessons to people from all over the world?
+How did I end up teaching Online Lessons to people from all over the world (including Doctors from Harvard & Oxford Univiersities)?
 
-Since 2017, I acknoledge [my gambling addiction](https://medium.com/@jesusloplar/buenas-tardes-me-llamo-jes%C3%BAs-l%C3%B3pez-enfermo-lud%C3%B3pata-en-rehabilitaci%C3%B3n-7566c17ee56) with online sports and started my recovery process.
+On January 17th of 2017, I acknoledged [my gambling addiction](https://medium.com/@jesusloplar/buenas-tardes-me-llamo-jes%C3%BAs-l%C3%B3pez-enfermo-lud%C3%B3pata-en-rehabilitaci%C3%B3n-7566c17ee56) with online sports and started my recovery process.
 
 I didn't have any money and I had to earn it to sustain myself in University (my parents also helped, 70% of the budget).
 
@@ -24,8 +24,6 @@ Therefore, I put an [online advertisement](https://www.tusclasesparticulares.com
 A guy from Madrid asked me for a lesson, but I thought it was impossible because I was in another city. We did it online via skype. And I changed the online advertisement for online mode.
 
 Since then, I have given more than 4,000h of private lessons to more than [400 people](https://github.com/jsulopz/01-resolving-python-data-science/network/members) of any kind.
-
-The most high-level profiles I've given lessons to are bankers from & researchers from Harvard & Oxford Universities.
 
 <!--
 **jsulopz/jsulopz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
