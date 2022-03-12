@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am [@jsulopz](https://twitter.com/jsulopz), a Python + Data Science Trainer & Consultant.
+
+My goal is to build an Educational Institution who shapes and nurture people to release their full potential at programming.
+
 <!--
 **jsulopz/jsulopz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
