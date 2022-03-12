@@ -9,7 +9,7 @@ You can see my `tutorials` via:
 1. [YouTube](https://youtube.com/c/pythonresolver/)
 2. [Python Assembly Blog](https://blog.pythonassembly.com/)
 
-How did I end up teaching Online Lessons to people from all over the world (including Doctors from Harvard & Oxford Universities)?
+How did I end up teaching Online Lessons to people from all over the world (including Doctors from [Harvard & Oxford Universities](https://resolvingpython.com/))?
 
 On January 17th of 2017, I acknowledged [my gambling addiction](https://medium.com/@jesusloplar/buenas-tardes-me-llamo-jes%C3%BAs-l%C3%B3pez-enfermo-lud%C3%B3pata-en-rehabilitaci%C3%B3n-7566c17ee56) to online sports and started my recovery.
 
