@@ -2,7 +2,9 @@
 
 I am [@jsulopz](https://twitter.com/jsulopz), a Python + Data Science Trainer & Consultant.
 
-I share everything I know about Python + Data Science through my `tutorials`:
+I coach people to develop the [Resolving Discipline](https://github.com/jsulopz/00-python-resolver-discipline) that turns them into independent programmers.
+
+Everything I know is shared through my `tutorials`:
 
 1. [YouTube](https://youtube.com/c/pythonresolver/)
 2. [Blog](https://blog.pythonassembly.com/)
@@ -21,21 +23,19 @@ One and a half year later, my friend Sara asked me to teach her R. We did a less
 
 Therefore, I put an [online advertisement](https://www.tusclasesparticulares.com/profesores/jesus-lopez1407633/opiniones) to teach R programming.
 
-A guy from Madrid asked me for a lesson, but I thought it was impossible because I was in another city. We did it online via skype. And I changed the online advertisement for online mode.
+In October 2019, a guy from Madrid asked me for a lesson, but I thought it was impossible because I was in another city. We did it online via `skype`.
+
+I changed the online advertisement to give **Online Private Lessons**. It changed my life.
 
 Since then, I have given more than 4,000h of private lessons to more than [400 people](https://github.com/jsulopz/01-resolving-python-data-science/network/members) of any kind.
 
-<!--
-**jsulopz/jsulopz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 70% of them needed my help to solve their Course's assignments.
+- 30% of them wanted to learn Data Science + Python from scratch.
 
-Here are some ideas to get you started:
+At some point in the summer of 2020, I discovered that I was teaching the same topics over and over again. Therefore I decided to structure the materials in the following courses:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. [Resolving Python with Data Science](https://github.com/jsulopz/01-resolving-python-data-science)
+2. [Machine Learning](https://github.com/jsulopz/02-machine-learning)
+
+<!-- 3. [Advanced Machine Learning](https://github.com/jsulopz/03-advanced-machine-learning) -->
+<!-- 4. [Resolving Python for Professionals](https://github.com/jsulopz/05-resolving-python-for-professionals) -->
