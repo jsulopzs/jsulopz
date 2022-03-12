@@ -13,7 +13,7 @@ How did I end up teaching Online Lessons to people from all over the world (incl
 
 On January 17th of 2017, I acknowledged [my gambling addiction](https://medium.com/@jesusloplar/buenas-tardes-me-llamo-jes%C3%BAs-l%C3%B3pez-enfermo-lud%C3%B3pata-en-rehabilitaci%C3%B3n-7566c17ee56) to online sports and started my recovery.
 
-I didn't have any money, and I had to earn it to sustain myself in University (my parents also helped, 70% of the budget).
+I didn't have any money, and I had to earn it to sustain myself in University (my parents helped 70% of the budget, but lost most of it to gambling).
 
 What could I do with what I had?
 
