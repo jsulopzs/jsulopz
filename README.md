@@ -38,3 +38,5 @@ At some point in the summer of 2020, I discovered that I was teaching the same t
 2. [Machine Learning](https://github.com/jsulopz/02-machine-learning)
 
 Nowadays, I dedicate at least 40h per week to teach my students and create educational content for my online channels.
+
+If you want me to train you in the field of Data Science + Python, you can book a lesson [here ↗](https://resolvingpython.as.me/)
