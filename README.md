@@ -19,11 +19,13 @@ What could I do with what I had?
 
 One and a half year later, my friend Sara asked me to teach her R. We did a lesson and she told me she loved the way I had taught her.
 
-Therefore, I put the online advertisement to teach R programming.
+Therefore, I put an [online advertisement](https://www.tusclasesparticulares.com/profesores/jesus-lopez1407633/opiniones) to teach R programming.
 
 A guy from Madrid asked me for a lesson, but I thought it was impossible because I was in another city. We did it online via skype. And I changed the online advertisement for online mode.
 
-Since then, I have given more than 4,000h of private lessons to more than 400 people of any kind. The most high-level profiles I've given lessons to are bankers from & researchers from Harvard & Oxford Universities.
+Since then, I have given more than 4,000h of private lessons to more than [400 people](https://github.com/jsulopz/01-resolving-python-data-science/network/members) of any kind.
+
+The most high-level profiles I've given lessons to are bankers from & researchers from Harvard & Oxford Universities.
 
 <!--
 **jsulopz/jsulopz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
