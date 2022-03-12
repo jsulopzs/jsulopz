@@ -2,7 +2,28 @@
 
 I am [@jsulopz](https://twitter.com/jsulopz), a Python + Data Science Trainer & Consultant.
 
-My goal is to build an Educational Institution who shapes and nurture people to release their full potential at programming.
+I share everything I know about Python + Data Science through my `tutorials`:
+
+1. [YouTube](https://youtube.com/c/pythonresolver/)
+2. [Blog](https://blog.pythonassembly.com/)
+
+How did I end up teaching Online Lessons to people from all over the world?
+
+Since 2017, I acknoledge [my gambling addiction](https://medium.com/@jesusloplar/buenas-tardes-me-llamo-jes%C3%BAs-l%C3%B3pez-enfermo-lud%C3%B3pata-en-rehabilitaci%C3%B3n-7566c17ee56) with online sports and started my recovery process.
+
+I didn't have any money and I had to earn it to sustain myself in University (my parents also helped, 70% of the budget).
+
+What could I do with what I had?
+
+- Teaching maths, physics & whatsoever to High School kids in Salamanca.
+
+One and a half year later, my friend Sara asked me to teach her R. We did a lesson and she told me she loved the way I had taught her.
+
+Therefore, I put the online advertisement to teach R programming.
+
+A guy from Madrid asked me for a lesson, but I thought it was impossible because I was in another city. We did it online via skype. And I changed the online advertisement for online mode.
+
+Since then, I have given more than 4,000h of private lessons to more than 400 people of any kind. The most high-level profiles I've given lessons to are bankers from & researchers from Harvard & Oxford Universities.
 
 <!--
 **jsulopz/jsulopz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
