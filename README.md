@@ -1,4 +1,6 @@
-### Hi there 👋
+# Jesús López
+
+### Who the hell am I?
 
 I am [@jsulopz](https://twitter.com/jsulopz), a Python + Data Science Trainer & Consultant.
 
