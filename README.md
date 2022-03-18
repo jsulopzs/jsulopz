@@ -9,7 +9,7 @@ I coach people to develop the [Resolving Discipline](https://github.com/jsulopz/
 You can see my `tutorials` via:
 
 1. [YouTube](https://youtube.com/c/pythonresolver/)
-2. [Python Assembly Blog](https://blog.pythonassembly.com/)
+2. [Blog](https://blog.pythonresolver.com/)
 
 How did I end up teaching Online Lessons to people from all over the world (including Doctors from [Harvard & Oxford Universities](https://resolvingpython.com/))?
 
