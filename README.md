@@ -1,4 +1,4 @@
-# Jesús López
+# Python Resolver
 
 ### Who the hell am I?
 
