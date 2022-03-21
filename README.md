@@ -4,12 +4,12 @@
 
 I am [@jsulopz](https://twitter.com/jsulopz), a Python + Data Science Trainer & Consultant.
 
-I coach people to develop the [Resolving Discipline](https://github.com/jsulopz/00-python-resolver-discipline) that turns them into independent programmers.
+I coach people to develop the [Python Resolver Discipline](https://github.com/jsulopz/python-resolver-discipline) that turns them into independent programmers.
 
 You can see my `tutorials` via:
 
 1. [YouTube](https://youtube.com/c/pythonresolver/)
-2. [Blog](https://blog.pythonresolver.com/)
+2. [Python Resolver Blog](https://blog.pythonresolver.com/)
 
 How did I end up teaching Online Lessons to people from all over the world (including Doctors from [Harvard & Oxford Universities](https://resolvingpython.com/))?
 
@@ -29,7 +29,7 @@ In October 2019, a guy from Madrid asked me for a lesson, but I thought it was i
 
 I changed the online advertisement to give Online Private Lessons. It changed my life.
 
-Since then, I have given more than 4,000h of private lessons to more than [400 people](https://github.com/jsulopz/01-resolving-python-data-science/network/members) of any kind.
+Since then, I have given more than 4,000h of private lessons to more than [400 people](https://github.com/jsulopz/resolving-python-data-science/network/members) of any kind.
 
 - 70% of them needed my help to solve their Course assignments
 - 30% of them wanted to learn Data Science + Python from scratch
@@ -37,7 +37,7 @@ Since then, I have given more than 4,000h of private lessons to more than [400 p
 At some point in the summer of 2020, I discovered that I was teaching the same topics over and over again. Therefore I decided to structure the materials in the following courses:
 
 1. [Resolving Python with Data Science](https://github.com/jsulopz/01-resolving-python-data-science)
-2. [Machine Learning](https://github.com/jsulopz/02-machine-learning)
+2. [Machine Learning](https://github.com/jsulopz/machine-learning)
 
 Nowadays, I dedicate at least 40h per week to teaching my students and creating educational content for my online channels.
 
